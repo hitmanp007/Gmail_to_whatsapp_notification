@@ -1,4 +1,4 @@
-from gmail.reader import get_latest_emails
+from app.gmail.reader import get_latest_emails
 
 
 def main():
