@@ -10,3 +10,7 @@ everytime a new email received a notification show in whatsapp that include
 sender name 
 subject 
 and time 
+
+
+*auther* 
+pranav sahu
